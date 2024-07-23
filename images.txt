@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 thun888/mirouter-ui
 onething1/wxedge:3.0.2
+thun888/mirouter-ui:dev
