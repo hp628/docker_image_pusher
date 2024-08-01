@@ -7,3 +7,15 @@ xhofe/alist:latest
 thun888/mirouter-ui
 onething1/wxedge:3.0.2
 thun888/mirouter-ui:dev
+#openvpn管理界面
+#https://www.bilibili.com/video/BV1fo4y1K7KY/
+aeert/openvpn
+aeert/openvpn-web
+#相关命令：
+#curl -O https://ee11c85b.file-a7m.pages.dev/openvpn/docker-compose.yml
+#docker-compose up -d
+
+#打开http://ip/:8080即可进入后台管理界面
+#username: admin
+#password: b3secure
+
