@@ -19,3 +19,4 @@ aeert/openvpn-web
 #username: admin
 #password: b3secure
 
+rustdesk/rustdesk-server-s6:latest
