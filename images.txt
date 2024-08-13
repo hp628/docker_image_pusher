@@ -9,8 +9,8 @@ onething1/wxedge
 #thun888/mirouter-ui:dev
 #openvpn管理界面
 #https://www.bilibili.com/video/BV1fo4y1K7KY/
-aeert/openvpn
-aeert/openvpn-web
+#aeert/openvpn
+#aeert/openvpn-web
 #相关命令：
 #curl -O https://ee11c85b.file-a7m.pages.dev/openvpn/docker-compose.yml
 #docker-compose up -d
