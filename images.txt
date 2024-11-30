@@ -20,3 +20,6 @@ onething1/wxedge
 #password: b3secure
 
 rustdesk/rustdesk-server-s6:latest
+
+# 青龙面板
+whyour/qinglong:latest
